@@ -1,0 +1,30 @@
+.navbar {
+    background-color: rgb(128, 163, 228);
+    color: white; 
+    }
+      
+body {
+    background-image: url("Assets/Images/palm.jpg");
+    }
+
+img {
+    width: 300px; 
+    border-radius: 50px;
+    }
+
+.containercontent {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(128, 163, 228);
+    color: rgb(65, 82, 113);
+    text-align: center;
+    }
+
+
